@@ -3,6 +3,8 @@ team work (by Abraham Adusei and Anthonia Akpan )
 printf format strings are complementary to scanf format strings, which provide formatted input.
 You can print all of the normal C types with printf by using different placeholders:
 
+also add this line to ensure things are working 
+
 **Prototype:** `int _printf(const char *, ...);`
 
 ## Examples
